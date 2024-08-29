@@ -2,7 +2,9 @@
 
 - Student of the IT technical course at Cedup Abílio Paulo 👨🏻‍💻
 - Profile intended for posting school and personal programs 💻👾
-  
+- Musician in his spare time 🎼🎸
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AirtoGhisi&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AirtoGhisi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
